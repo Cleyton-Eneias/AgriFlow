@@ -1,6 +1,6 @@
 # 🌾 AgriFlow — Sistema Inteligente de Controle de Frota Agrícola
 
-O **AgriFlow** é uma aplicação web desenvolvida para otimizar e automatizar o **controle de frota** da Usina Olho D’Água**.  
+O **AgriFlow** é uma aplicação web desenvolvida para otimizar e automatizar o **controle de frota****.  
 O sistema integra **mapas interativos**, **cálculo de rotas via OSRM**, **gestão de viagens**, **filtros inteligentes** e **acompanhamento em tempo real**, garantindo mais eficiência e redução de erros operacionais no transporte interno.
 
 ## 🚀 Funcionalidades Principais
@@ -27,12 +27,13 @@ Usando dados integrados do banco de dados e do GeoJSON.
 
 ## 🔒 Segurança & Disponibilidade
 
-Por conter informações internas e estruturais da empresa, o **código-fonte completo não é disponibilizado publicamente**.  
+Por conter informações internas e estruturais, o **código-fonte completo não é disponibilizado publicamente**.  
 Este repositório exibe apenas:
 
-- Imagens  
-- Documentação  
-- Demonstrações visuais
+- A imagem abaixo
+  ![AgriFlow](Agriflow_imagem_exp.png)
+
+
 
 Caso queira saber mais sobre o projeto ou discutir detalhes técnicos:
 
